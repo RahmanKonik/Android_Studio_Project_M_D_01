@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp2023</string>
+    <string name="show_forecast">Show Forecast</string>
+    <string name="refresh">refresh</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="back">Back</string>
+    <string name="tampere">Tampere</string>
+    <string name="STRING_UNKNOWN_CITY">Location is not found</string>
+</resources>

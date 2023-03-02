@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonBMICalulator</string>
+    <string name="text_weight">Masse</string>
+    <string name="text_height">Hauteur </string>
+    <string name="text_bmi">calculateur IMC</string>
+    <string name="text_result">Résultat</string>
+</resources>

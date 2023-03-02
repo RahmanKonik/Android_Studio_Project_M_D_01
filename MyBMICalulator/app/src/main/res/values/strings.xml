@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBMICalulator</string>
+    <string name="text_weight">Weight</string>
+    <string name="text_height">Height </string>
+    <string name="text_bmi">calulator BMI</string>
+    <string name="text_result">Result</string>
+</resources>
